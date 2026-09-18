@@ -1,0 +1,2 @@
+# This prototype uses only Python standard library.
+# No external packages are required.
