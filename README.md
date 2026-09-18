@@ -38,3 +38,34 @@ My goal is to improve my AI skills and learn how AI tools can help educators:
 I want to expand my knowledge of modern AI technologies, gain practical experience with AI agents and explore new ways of integrating AI into education and graphic design.
 
 This repository will contain my experiments, ideas and projects related to AI and education.
+
+
+## 💻 Current Prototype
+
+### Graphic Design Learning Assistant
+
+This repository now includes a simple Python-based educational assistant for graphic design students.
+
+The prototype allows students to select a topic such as:
+
+- CorelDRAW
+- Logo Design
+- Vector Graphics
+- Typography
+- Color Theory
+
+The program then generates a practical learning task based on the selected topic and student level.
+
+### 🚀 Future Development
+
+I plan to develop this prototype further by integrating AI and Agentic AI technologies.
+
+Future versions may include:
+
+- AI-generated personalized assignments
+- Student progress analysis
+- AI feedback on design projects
+- Personalized learning paths
+- An AI assistant for CorelDRAW learners
+
+This is an early educational prototype and part of my learning journey into AI and Agentic AI.
