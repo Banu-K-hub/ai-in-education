@@ -2,7 +2,7 @@
 
 Hello! I am an educator with experience in teaching computer science and graphic design.
 
-I currently teach computer science at Astana Technical College and also work as a graphic design instructor at the Tanым Child Development Center.
+I currently teach computer science at Astana Technical College and also work as a graphic design instructor at the Tanym Child Development Center.
 
 ## 👩‍🏫 About Me
 
